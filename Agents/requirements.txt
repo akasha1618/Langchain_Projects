@@ -1,0 +1,9 @@
+openai
+langchain
+python-dotenv
+numexpr
+wikipedia
+
+
+
+
